@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Hola soy Lucia y tengo un gato" 
+=======
+"Hola soy Lucia Velasco" 
+>>>>>>> 0cef0c285f01c0ea3844b13909585a7ac6cfc91d
